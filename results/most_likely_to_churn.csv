@@ -1,0 +1,11 @@
+Customer_ID,Churn_Probability,Lifetime_Value,Region,Most_Frequent_Category
+CUST_NQXY9J,1,4583.72,Asia,Sports
+CUST_NDXQII,1,4602.74,Asia,Electronics
+CUST_8UFMY8,1,6436.6,"North America",Sports
+CUST_EJ5UKW,1,7652.55,"South America",Electronics
+CUST_MRDBPG,1,4689.05,"South America",Sports
+CUST_LJ9IAI,1,1520.28,"South America",Sports
+CUST_EXIWCA,1,9532.66,"North America",Electronics
+CUST_CL0MP3,1,9171.46,"North America",Clothing
+CUST_1SX45W,1,4603.7,Asia,Electronics
+CUST_RZAK6A,1,2810.77,"North America",Sports

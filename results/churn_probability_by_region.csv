@@ -1,0 +1,5 @@
+Region,avg_churn_probability,total_customers
+Asia,0.507,2472
+"North America",0.505,2454
+"South America",0.503,2527
+Europe,0.492,2547

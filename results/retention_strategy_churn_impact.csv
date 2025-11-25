@@ -1,0 +1,4 @@
+Retention_Strategy,avg_churn_probability,avg_lifetime_value,total_customers
+"Loyalty Program",0.493,5012.62,3364
+Discount,0.503,5037.53,3277
+"Email Campaign",0.508,5045.81,3359

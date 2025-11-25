@@ -1,0 +1,1001 @@
+Customer_ID,Lifetime_Value,customer_segment,Region,Most_Frequent_Category
+CUST_60UJGD,9999.76,"High Value","North America",Electronics
+CUST_EHXRPM,9999.2,"High Value","South America",Sports
+CUST_CA1QY3,9998.45,"High Value","North America",Clothing
+CUST_XRSCIE,9998.35,"High Value","South America",Electronics
+CUST_JIEUGX,9997.79,"High Value","South America",Sports
+CUST_FL8VFS,9996.68,"High Value",Europe,Electronics
+CUST_YC526K,9995.1,"High Value",Europe,Electronics
+CUST_MXNXW6,9994.99,"High Value",Asia,Clothing
+CUST_O9KA9V,9994.9,"High Value","South America",Sports
+CUST_SCKZ86,9992.24,"High Value","South America",Electronics
+CUST_3PQB3B,9992.06,"High Value",Asia,Electronics
+CUST_RE9C14,9992.02,"High Value",Europe,Electronics
+CUST_JLA74Y,9991.39,"High Value",Asia,Clothing
+CUST_742TUO,9990.55,"High Value","North America",Sports
+CUST_AAW1HY,9989.95,"High Value",Europe,Sports
+CUST_X1EWL7,9989.87,"High Value","South America",Home
+CUST_YLAJOB,9989.67,"High Value","North America",Clothing
+CUST_VPRS2J,9988.45,"High Value",Europe,Clothing
+CUST_KZWXK6,9987.43,"High Value",Europe,Home
+CUST_NOFR78,9987.4,"High Value","North America",Sports
+CUST_UOSK65,9985.71,"High Value","North America",Home
+CUST_QADK2W,9985.47,"High Value","North America",Clothing
+CUST_HT6GBV,9985.23,"High Value","North America",Clothing
+CUST_DEUW4J,9984.85,"High Value",Europe,Sports
+CUST_9JJ562,9984.02,"High Value",Asia,Electronics
+CUST_0WUS62,9983.94,"High Value",Europe,Home
+CUST_K74LA4,9981.67,"High Value","North America",Sports
+CUST_2HZ2XE,9981.39,"High Value","South America",Sports
+CUST_FZ2EDZ,9980.91,"High Value",Europe,Electronics
+CUST_B5S9QU,9979.96,"High Value","North America",Home
+CUST_EZIOC3,9979.68,"High Value",Europe,Home
+CUST_WDWYJE,9979.52,"High Value","South America",Clothing
+CUST_IGI8LL,9979.49,"High Value","South America",Electronics
+CUST_7UVK6Z,9979.43,"High Value",Asia,Clothing
+CUST_4VB1T5,9978.11,"High Value","North America",Home
+CUST_8IU3IP,9977.46,"High Value",Asia,Sports
+CUST_LKCP4Y,9977.28,"High Value","South America",Electronics
+CUST_HT2QHG,9973.82,"High Value","North America",Sports
+CUST_LZXIV4,9973.42,"High Value","South America",Home
+CUST_8JINY9,9971.38,"High Value","North America",Sports
+CUST_LF082P,9970.68,"High Value","South America",Sports
+CUST_HENBF0,9968.12,"High Value","North America",Home
+CUST_8KB8ZQ,9967.11,"High Value","South America",Home
+CUST_95INWB,9966.91,"High Value","South America",Home
+CUST_6F4WXG,9966.07,"High Value",Europe,Home
+CUST_ADD3GS,9965.97,"High Value","South America",Clothing
+CUST_86AULU,9963.75,"High Value",Europe,Electronics
+CUST_3LBICH,9962.15,"High Value","North America",Electronics
+CUST_LNFFFH,9960.69,"High Value",Asia,Electronics
+CUST_Y7518W,9960.11,"High Value","North America",Electronics
+CUST_6QHT77,9959.39,"High Value",Asia,Clothing
+CUST_T5ISZO,9958.64,"High Value",Asia,Sports
+CUST_A1QNX1,9957.36,"High Value",Europe,Sports
+CUST_B7J4FA,9956.25,"High Value",Asia,Sports
+CUST_G3B690,9955.37,"High Value","North America",Sports
+CUST_X71QKY,9953.56,"High Value","South America",Sports
+CUST_Y79RYJ,9952.75,"High Value","North America",Sports
+CUST_HAX1X4,9951.87,"High Value","South America",Sports
+CUST_4ORZJW,9951.08,"High Value",Asia,Home
+CUST_E93HKS,9951.06,"High Value",Europe,Clothing
+CUST_ATJCF7,9951.01,"High Value","South America",Clothing
+CUST_PWPN83,9950.44,"High Value","South America",Sports
+CUST_WMZKUI,9949.79,"High Value",Europe,Clothing
+CUST_Z7OE2D,9947.19,"High Value","South America",Clothing
+CUST_B5R3MK,9944.84,"High Value",Europe,Electronics
+CUST_LV4LLP,9944.46,"High Value",Asia,Electronics
+CUST_8E2Q1K,9943.51,"High Value",Europe,Electronics
+CUST_P0ANPS,9942.59,"High Value",Asia,Sports
+CUST_5EF3PJ,9941.97,"High Value",Europe,Sports
+CUST_TOYA68,9941.36,"High Value","South America",Clothing
+CUST_DPPBLW,9940.54,"High Value",Europe,Home
+CUST_Y2CZKX,9940.11,"High Value","North America",Electronics
+CUST_RIOS1B,9939.87,"High Value","North America",Electronics
+CUST_75A5U5,9938.6,"High Value",Asia,Electronics
+CUST_IXNKYJ,9937.71,"High Value",Europe,Sports
+CUST_NMIM67,9937.12,"High Value",Asia,Sports
+CUST_PJSXDD,9937.01,"High Value","North America",Home
+CUST_D6EDI3,9936.27,"High Value","North America",Sports
+CUST_CSZUX1,9935.23,"High Value",Asia,Home
+CUST_3SGWAY,9935.19,"High Value",Asia,Clothing
+CUST_0LG1K1,9933.05,"High Value",Europe,Sports
+CUST_JA1X8U,9933.03,"High Value",Asia,Home
+CUST_UHPUYZ,9931.14,"High Value","North America",Clothing
+CUST_1G63XA,9930.38,"High Value","South America",Clothing
+CUST_T6VMKZ,9929.53,"High Value",Europe,Clothing
+CUST_BJ34A6,9925.76,"High Value","South America",Home
+CUST_HEA190,9923.45,"High Value","South America",Electronics
+CUST_ZFXX19,9921.33,"High Value",Europe,Sports
+CUST_CX01RS,9920.15,"High Value",Asia,Electronics
+CUST_23VZMM,9919.61,"High Value","North America",Electronics
+CUST_JXOWHX,9919.36,"High Value","South America",Electronics
+CUST_CDT85D,9919.17,"High Value",Asia,Clothing
+CUST_ZK7673,9917.38,"High Value","South America",Clothing
+CUST_NKLXJF,9916.63,"High Value",Asia,Sports
+CUST_OTRZKI,9914.81,"High Value",Europe,Home
+CUST_1CU75Z,9914.8,"High Value",Asia,Electronics
+CUST_26UH5A,9913.16,"High Value","North America",Sports
+CUST_XNDMXR,9912.8,"High Value","North America",Home
+CUST_8XGCCK,9912.29,"High Value","North America",Home
+CUST_NYQDER,9911.77,"High Value",Asia,Sports
+CUST_YVI8EY,9911.39,"High Value",Europe,Clothing
+CUST_SM6TFW,9910.9,"High Value","South America",Home
+CUST_T0M179,9909.88,"High Value","South America",Home
+CUST_9I1X23,9909.21,"High Value","South America",Sports
+CUST_XUQG9A,9909.2,"High Value",Asia,Sports
+CUST_C1J140,9909.04,"High Value","North America",Home
+CUST_JKTSAO,9908.75,"High Value",Europe,Clothing
+CUST_FCDME7,9902.14,"High Value","North America",Clothing
+CUST_E6118V,9901.05,"High Value","North America",Electronics
+CUST_JEPA0B,9898.83,"High Value",Europe,Sports
+CUST_OSDS76,9898.75,"High Value",Asia,Electronics
+CUST_9Z7IT1,9898.25,"High Value",Asia,Electronics
+CUST_TS2FNM,9897.89,"High Value",Europe,Clothing
+CUST_3OGBOW,9897.35,"High Value","South America",Sports
+CUST_T5SIXQ,9896.49,"High Value",Europe,Home
+CUST_DDQ88R,9896.39,"High Value",Europe,Clothing
+CUST_SD99UH,9895.49,"High Value","South America",Clothing
+CUST_VY51HG,9894.92,"High Value","South America",Electronics
+CUST_R3RAZB,9894.55,"High Value",Asia,Electronics
+CUST_LFR9IF,9889.39,"High Value",Asia,Home
+CUST_5W4VTY,9888.87,"High Value","South America",Electronics
+CUST_NJQQP7,9888.01,"High Value","South America",Home
+CUST_LHY1H8,9886.64,"High Value",Europe,Clothing
+CUST_DV4FNK,9886.55,"High Value","South America",Sports
+CUST_WI1RBZ,9886.53,"High Value",Europe,Clothing
+CUST_0ZY8PR,9885.8,"High Value",Europe,Sports
+CUST_X9RMGO,9885.34,"High Value","South America",Clothing
+CUST_5CMJNC,9884.14,"High Value","North America",Clothing
+CUST_PR2768,9883.88,"High Value",Asia,Home
+CUST_04AKD1,9882.26,"High Value",Asia,Electronics
+CUST_XZ2RQP,9878.37,"High Value","South America",Clothing
+CUST_NYQG17,9877.4,"High Value","North America",Electronics
+CUST_H1MU7Q,9876.27,"High Value","South America",Clothing
+CUST_58CETQ,9875.82,"High Value",Europe,Clothing
+CUST_0M04JK,9873.59,"High Value","South America",Clothing
+CUST_PDHTCK,9873.05,"High Value",Europe,Electronics
+CUST_SNSMSZ,9871.97,"High Value","North America",Home
+CUST_ESSP4J,9870.92,"High Value","South America",Electronics
+CUST_9Z2PCT,9869.08,"High Value","North America",Sports
+CUST_5XKEXZ,9867.45,"High Value","South America",Home
+CUST_3NJ14S,9867.29,"High Value",Asia,Electronics
+CUST_P2ZJHO,9867.02,"High Value","North America",Sports
+CUST_LRFCSM,9866.87,"High Value","North America",Home
+CUST_BD5K0T,9866.25,"High Value",Europe,Electronics
+CUST_V3YFA4,9865.56,"High Value",Asia,Electronics
+CUST_KRE5MZ,9865.46,"High Value",Europe,Home
+CUST_8I3MMV,9865.04,"High Value","North America",Home
+CUST_AU7Y96,9864.34,"High Value","North America",Electronics
+CUST_PUJEYU,9862.37,"High Value",Asia,Home
+CUST_YH6OQR,9860.35,"High Value","South America",Home
+CUST_B4ZCM6,9856.4,"High Value",Asia,Clothing
+CUST_ZZIFMS,9854.68,"High Value",Asia,Electronics
+CUST_6S3XLU,9853.74,"High Value","South America",Clothing
+CUST_WLYP2N,9853.35,"High Value","North America",Electronics
+CUST_VKLEKB,9852.34,"High Value","South America",Electronics
+CUST_Z1WQH7,9851.37,"High Value",Europe,Clothing
+CUST_CJJI6E,9849.9,"High Value","South America",Home
+CUST_I1H88V,9849.78,"High Value","South America",Home
+CUST_BWCYBJ,9849.77,"High Value","South America",Electronics
+CUST_V1M2KZ,9849.27,"High Value","South America",Sports
+CUST_H3HTYJ,9843.62,"High Value","North America",Home
+CUST_MM26NQ,9843.46,"High Value","South America",Electronics
+CUST_TUA1L9,9843.38,"High Value","North America",Clothing
+CUST_YAAD80,9842.89,"High Value",Europe,Sports
+CUST_JQ4WV5,9842.61,"High Value","North America",Electronics
+CUST_B5HMQX,9842.42,"High Value","South America",Electronics
+CUST_57E5KO,9841.81,"High Value","South America",Clothing
+CUST_7XZGSU,9841.44,"High Value","South America",Electronics
+CUST_3XQKKX,9840.93,"High Value",Europe,Home
+CUST_DA8NIE,9837.95,"High Value",Europe,Home
+CUST_52KN6Z,9836.52,"High Value","North America",Electronics
+CUST_MZUQCP,9835.83,"High Value","South America",Clothing
+CUST_1MRWE5,9834.87,"High Value",Asia,Electronics
+CUST_H2KZAZ,9834.79,"High Value",Europe,Home
+CUST_9HN2DV,9834.3,"High Value","South America",Sports
+CUST_SOHVT2,9833.45,"High Value","North America",Sports
+CUST_22L4MN,9832.04,"High Value",Asia,Home
+CUST_8YHHN6,9828.64,"High Value",Europe,Sports
+CUST_GZO3AZ,9828.5,"High Value",Europe,Electronics
+CUST_PWNZM7,9827.54,"High Value","North America",Sports
+CUST_RVRXEC,9823.22,"High Value","North America",Sports
+CUST_KU3BJ7,9822.1,"High Value","North America",Sports
+CUST_X471DE,9821.56,"High Value",Asia,Home
+CUST_YYUGDY,9821.4,"High Value","South America",Sports
+CUST_E48MP8,9821.34,"High Value","North America",Electronics
+CUST_89HAOC,9816.19,"High Value",Asia,Electronics
+CUST_OVFH3R,9815.64,"High Value",Asia,Clothing
+CUST_UL7A4C,9813.07,"High Value",Europe,Electronics
+CUST_BD01VH,9812.93,"High Value","North America",Sports
+CUST_IPJIZD,9812.35,"High Value",Asia,Electronics
+CUST_CUAB0P,9810.53,"High Value","South America",Electronics
+CUST_QK1AK9,9810.33,"High Value","South America",Electronics
+CUST_RAZ8JR,9810.11,"High Value",Asia,Sports
+CUST_UJER01,9806.29,"High Value","North America",Sports
+CUST_BAN1XS,9804.33,"High Value","North America",Clothing
+CUST_1GHDAR,9803.78,"High Value",Asia,Clothing
+CUST_BO88ZB,9803.37,"High Value",Europe,Electronics
+CUST_CF8B21,9803.03,"High Value","North America",Home
+CUST_I199WY,9800.11,"High Value","North America",Electronics
+CUST_92EBRB,9798.44,"High Value",Asia,Electronics
+CUST_IKI1Z8,9798.34,"High Value",Europe,Electronics
+CUST_L5K0R1,9795.17,"High Value","South America",Electronics
+CUST_NZ0K6T,9795.05,"High Value","South America",Home
+CUST_AXOW2M,9794.77,"High Value","North America",Clothing
+CUST_IK5WKL,9794.14,"High Value","South America",Electronics
+CUST_PE88A7,9793.48,"High Value",Asia,Home
+CUST_W8IZWM,9792.55,"High Value","North America",Electronics
+CUST_M8NSE5,9792.49,"High Value","South America",Electronics
+CUST_EZYCTJ,9791.4,"High Value",Europe,Home
+CUST_1REUT8,9790.51,"High Value","South America",Sports
+CUST_2Z70SE,9789,"High Value",Europe,Home
+CUST_ZAU955,9788.8,"High Value",Asia,Clothing
+CUST_JOK4W3,9788.13,"High Value",Europe,Sports
+CUST_3HJW0O,9788.07,"High Value",Europe,Electronics
+CUST_GZGUZT,9787.27,"High Value","South America",Home
+CUST_S8UWS3,9787.02,"High Value",Europe,Clothing
+CUST_7DCQPL,9785.26,"High Value",Europe,Electronics
+CUST_ZEKI3K,9783.8,"High Value","North America",Sports
+CUST_SBKRZ6,9780.81,"High Value",Europe,Electronics
+CUST_3IN27F,9779.55,"High Value","North America",Sports
+CUST_44WU3H,9777.23,"High Value","North America",Electronics
+CUST_S8F59I,9776.55,"High Value",Europe,Clothing
+CUST_E1HPE8,9774.97,"High Value","South America",Home
+CUST_9QHQJX,9774.69,"High Value",Europe,Sports
+CUST_391IYR,9773.64,"High Value","North America",Home
+CUST_IJ8A5N,9773.32,"High Value",Asia,Sports
+CUST_1CISC3,9773.17,"High Value",Europe,Clothing
+CUST_M9UXE5,9773.02,"High Value",Europe,Home
+CUST_PAJ9ZV,9772.92,"High Value",Asia,Sports
+CUST_VX16QV,9771.66,"High Value","North America",Home
+CUST_TSV0ZO,9771.27,"High Value",Europe,Electronics
+CUST_22PLVF,9770.51,"High Value",Asia,Clothing
+CUST_8IREVT,9769.32,"High Value",Europe,Clothing
+CUST_5513OT,9767.68,"High Value","North America",Home
+CUST_KYG1H8,9765.99,"High Value",Asia,Electronics
+CUST_YN221K,9764.76,"High Value",Europe,Electronics
+CUST_BY1X8M,9764.67,"High Value","North America",Sports
+CUST_LGKX9M,9764.65,"High Value",Europe,Clothing
+CUST_RDD9XH,9762.4,"High Value",Europe,Electronics
+CUST_LD0MNF,9760.31,"High Value",Asia,Home
+CUST_BM5R2X,9759.2,"High Value","North America",Sports
+CUST_21NH4N,9758.35,"High Value","South America",Home
+CUST_OW3TF3,9758.08,"High Value","South America",Clothing
+CUST_Q2SVI5,9757.13,"High Value","South America",Clothing
+CUST_6E0NPW,9756.91,"High Value",Europe,Clothing
+CUST_YVO5QE,9755.65,"High Value","South America",Sports
+CUST_5RZXAI,9755.54,"High Value","South America",Sports
+CUST_IWWLN7,9752.37,"High Value","North America",Home
+CUST_OFHZXG,9747.63,"High Value",Asia,Sports
+CUST_P6L1CI,9745.82,"High Value",Asia,Electronics
+CUST_XAASGH,9745.68,"High Value",Europe,Sports
+CUST_AA39D9,9745.55,"High Value",Europe,Sports
+CUST_MFB5UU,9744.64,"High Value","North America",Electronics
+CUST_3NRQ8G,9742.65,"High Value","North America",Sports
+CUST_X09NPB,9741.79,"High Value",Europe,Clothing
+CUST_M0OCH4,9740.26,"High Value",Europe,Home
+CUST_U70B0X,9739.66,"High Value","North America",Home
+CUST_RNHKC6,9738.63,"High Value",Asia,Sports
+CUST_KVQRZG,9736.28,"High Value","North America",Home
+CUST_XHT29I,9735.42,"High Value","North America",Sports
+CUST_LA3ENH,9734.56,"High Value",Asia,Electronics
+CUST_ILU9HZ,9732.05,"High Value","South America",Sports
+CUST_QK15C0,9731.5,"High Value",Europe,Electronics
+CUST_HQ89PU,9730.65,"High Value",Asia,Sports
+CUST_PWXIRO,9729.82,"High Value",Asia,Sports
+CUST_4SFU7T,9727.03,"High Value",Asia,Clothing
+CUST_PG1ZKW,9726.54,"High Value","North America",Sports
+CUST_MYVXBR,9726.3,"High Value","South America",Electronics
+CUST_PPGHUG,9725.7,"High Value","North America",Clothing
+CUST_70VKD1,9725.68,"High Value","South America",Clothing
+CUST_J8HWCH,9724.72,"High Value",Asia,Clothing
+CUST_DHI4MK,9724.6,"High Value",Asia,Electronics
+CUST_SMAI48,9724.44,"High Value",Asia,Electronics
+CUST_ZP553U,9723.76,"High Value",Asia,Sports
+CUST_LFLB5S,9723.61,"High Value","South America",Sports
+CUST_UPVG03,9722.39,"High Value",Asia,Sports
+CUST_6VOX4R,9721.67,"High Value","South America",Electronics
+CUST_5I1SBF,9721.63,"High Value",Asia,Clothing
+CUST_5BOH5Y,9719.66,"High Value","South America",Clothing
+CUST_TN5TFV,9719.12,"High Value",Asia,Home
+CUST_1U1AZN,9718.11,"High Value",Europe,Sports
+CUST_DGSF3K,9717.62,"High Value","North America",Clothing
+CUST_1U4EL3,9717.61,"High Value",Asia,Home
+CUST_63FM8S,9717.08,"High Value",Asia,Sports
+CUST_71X66G,9717.03,"High Value",Europe,Home
+CUST_1H6VWZ,9716.24,"High Value",Europe,Home
+CUST_UH7STY,9713.17,"High Value","South America",Home
+CUST_N8XD4A,9712.17,"High Value",Asia,Clothing
+CUST_RMXBZM,9711.92,"High Value",Asia,Clothing
+CUST_3QEC3M,9711.91,"High Value","South America",Home
+CUST_SAP6TV,9711.58,"High Value","South America",Home
+CUST_9Z1TVK,9710.4,"High Value",Asia,Clothing
+CUST_ZZK28I,9710.32,"High Value",Asia,Sports
+CUST_MD1TF0,9709.29,"High Value","North America",Electronics
+CUST_0G52T7,9708.92,"High Value","South America",Sports
+CUST_1PUTE2,9708.83,"High Value","South America",Clothing
+CUST_B6PL7M,9708.73,"High Value","South America",Sports
+CUST_X5U3YU,9707.65,"High Value","North America",Sports
+CUST_F31WT9,9707.52,"High Value","South America",Sports
+CUST_4WCJBX,9706.18,"High Value","South America",Sports
+CUST_Z2QK0K,9705.66,"High Value","North America",Electronics
+CUST_7ACBMN,9702.23,"High Value",Europe,Electronics
+CUST_FG93NW,9699.68,"High Value","South America",Clothing
+CUST_XF28CC,9698.58,"High Value",Europe,Sports
+CUST_R7HYAW,9698.18,"High Value","South America",Sports
+CUST_ZX8HAK,9697.49,"High Value","North America",Clothing
+CUST_DXXIBD,9696.48,"High Value","South America",Home
+CUST_7NIB7M,9696.01,"High Value","North America",Sports
+CUST_YYD8D8,9694.89,"High Value",Asia,Home
+CUST_Z0CVKV,9693.01,"High Value",Asia,Home
+CUST_IWNG6J,9690.78,"High Value",Europe,Clothing
+CUST_JK6K0D,9689.41,"High Value","North America",Electronics
+CUST_C4WIDX,9689.16,"High Value","North America",Sports
+CUST_8VW0YA,9688.88,"High Value",Asia,Electronics
+CUST_IU1UH8,9687.83,"High Value","South America",Electronics
+CUST_IK71GU,9685.74,"High Value","North America",Home
+CUST_NOF90Q,9685.04,"High Value","South America",Home
+CUST_3EPJHQ,9684.68,"High Value","South America",Sports
+CUST_V0PSRL,9681.35,"High Value",Asia,Sports
+CUST_41NLAY,9680.16,"High Value","South America",Sports
+CUST_DIEEI3,9678.75,"High Value","South America",Home
+CUST_M5BVOO,9677.52,"High Value","South America",Clothing
+CUST_IJK5AJ,9677.41,"High Value",Asia,Home
+CUST_4AARW5,9676.79,"High Value",Europe,Clothing
+CUST_EJPQ7G,9675.89,"High Value","North America",Clothing
+CUST_KSNIL6,9673.73,"High Value",Asia,Sports
+CUST_17TAW9,9672.86,"High Value","North America",Sports
+CUST_URQF1I,9672.31,"High Value",Asia,Electronics
+CUST_IQH89U,9671.73,"High Value","South America",Home
+CUST_QEA5VH,9670.47,"High Value",Asia,Home
+CUST_1J38LS,9669.1,"High Value",Europe,Clothing
+CUST_XBEQPG,9666.81,"High Value",Asia,Electronics
+CUST_MDY5GQ,9665.78,"High Value","North America",Clothing
+CUST_IW23JV,9664.27,"High Value",Asia,Electronics
+CUST_TP1TJR,9662.29,"High Value","North America",Electronics
+CUST_KX99NM,9661.67,"High Value",Europe,Sports
+CUST_7L4P65,9659.1,"High Value",Europe,Home
+CUST_9MUWXV,9658.28,"High Value","North America",Home
+CUST_40Y1Z4,9658.22,"High Value",Asia,Electronics
+CUST_61145V,9657.31,"High Value","North America",Electronics
+CUST_HKSU1G,9657,"High Value","South America",Clothing
+CUST_F3G1J8,9656.01,"High Value",Asia,Electronics
+CUST_RA3KK8,9654.99,"High Value",Europe,Electronics
+CUST_ZY47IB,9654.25,"High Value",Europe,Clothing
+CUST_0QZHBE,9653.48,"High Value","South America",Sports
+CUST_RTFK5U,9653.42,"High Value",Europe,Electronics
+CUST_5PS6WM,9653.03,"High Value","South America",Home
+CUST_JPBM76,9653.03,"High Value",Asia,Home
+CUST_4XDTV4,9652.1,"High Value",Europe,Home
+CUST_V90KA5,9651.91,"High Value",Asia,Electronics
+CUST_DA50O6,9650.94,"High Value",Asia,Clothing
+CUST_WA3EXG,9650.24,"High Value",Asia,Sports
+CUST_4B671N,9649.97,"High Value","North America",Home
+CUST_RN56P2,9649.74,"High Value",Asia,Sports
+CUST_PS024K,9648.88,"High Value","North America",Electronics
+CUST_QRCDVO,9639.59,"High Value",Europe,Clothing
+CUST_Q3ZEHF,9638.42,"High Value",Asia,Sports
+CUST_F4JGQJ,9637.64,"High Value",Europe,Electronics
+CUST_BJJA17,9637.22,"High Value",Asia,Sports
+CUST_PPTS5Q,9635.23,"High Value","North America",Clothing
+CUST_3QGU8V,9633.88,"High Value","South America",Home
+CUST_E8PFZQ,9633.01,"High Value",Asia,Sports
+CUST_H04U4N,9631,"High Value",Asia,Home
+CUST_E6FIZD,9630.67,"High Value","South America",Sports
+CUST_J1Y90B,9628.5,"High Value",Europe,Home
+CUST_AK11TA,9627.68,"High Value",Asia,Electronics
+CUST_D8OFIC,9624.87,"High Value",Europe,Clothing
+CUST_2K4FJK,9618.07,"High Value",Asia,Sports
+CUST_KRIBKJ,9616.71,"High Value",Asia,Clothing
+CUST_T81FDF,9615.83,"High Value",Asia,Sports
+CUST_MS3FQD,9615.82,"High Value",Europe,Electronics
+CUST_TNDX35,9615.08,"High Value",Europe,Sports
+CUST_DECK55,9614.62,"High Value",Asia,Electronics
+CUST_H4S5QS,9613.59,"High Value","North America",Sports
+CUST_1AFNI1,9613.31,"High Value",Asia,Electronics
+CUST_PDEK9O,9613.21,"High Value","South America",Home
+CUST_I2T2JQ,9612.65,"High Value",Europe,Electronics
+CUST_M5SSL8,9612.49,"High Value",Europe,Clothing
+CUST_3W8UOH,9611.7,"High Value",Asia,Electronics
+CUST_HBYAK9,9611.2,"High Value",Asia,Electronics
+CUST_PPVJ4P,9611.06,"High Value","North America",Sports
+CUST_F9BD9E,9610.89,"High Value","South America",Sports
+CUST_HU7TN8,9610,"High Value","South America",Home
+CUST_MRIKHS,9609.12,"High Value",Europe,Sports
+CUST_4SEPW8,9607.55,"High Value",Europe,Electronics
+CUST_HP4FMO,9607.21,"High Value",Asia,Electronics
+CUST_MQXD1O,9606.28,"High Value",Asia,Home
+CUST_D4YL8U,9603.45,"High Value","North America",Clothing
+CUST_125PEU,9602.66,"High Value","South America",Sports
+CUST_UQAK2O,9602.11,"High Value","South America",Clothing
+CUST_1X8X4P,9600.5,"High Value",Asia,Home
+CUST_K5O0H2,9600.3,"High Value",Europe,Electronics
+CUST_WBGU5J,9599.2,"High Value",Europe,Electronics
+CUST_80ROTC,9599.19,"High Value","South America",Electronics
+CUST_W6IAQU,9598.26,"High Value","North America",Electronics
+CUST_W7U5WN,9597.22,"High Value",Asia,Sports
+CUST_T42BGU,9597.11,"High Value","North America",Sports
+CUST_J2QXPH,9596.7,"High Value",Asia,Electronics
+CUST_OSE65R,9594.62,"High Value",Asia,Sports
+CUST_YNM9HA,9594.06,"High Value","South America",Sports
+CUST_UD15DX,9593.86,"High Value",Europe,Sports
+CUST_48XYXW,9590.93,"High Value","North America",Clothing
+CUST_K3UGVF,9589.03,"High Value",Asia,Electronics
+CUST_29LEQW,9587.23,"High Value",Asia,Electronics
+CUST_QN1WVA,9587.19,"High Value",Asia,Clothing
+CUST_8O1KVU,9578.88,"High Value",Europe,Sports
+CUST_063VCH,9575.97,"High Value",Asia,Clothing
+CUST_OHL0UC,9575.84,"High Value","North America",Sports
+CUST_3BHNDD,9575.79,"High Value",Asia,Sports
+CUST_NAE0L9,9572.63,"High Value","North America",Electronics
+CUST_RK84L5,9572.09,"High Value",Asia,Electronics
+CUST_BDT148,9569.97,"High Value","South America",Clothing
+CUST_536F7A,9569.62,"High Value","South America",Home
+CUST_H8JF6I,9566.68,"High Value","South America",Clothing
+CUST_J7HCKP,9565.16,"High Value","North America",Clothing
+CUST_A3PDSR,9561.08,"High Value","North America",Sports
+CUST_JYW7SY,9560.66,"High Value",Asia,Home
+CUST_KJ9A5O,9560.36,"High Value","South America",Home
+CUST_5B1EVM,9559.52,"High Value",Asia,Electronics
+CUST_V760Z8,9559.45,"High Value",Asia,Sports
+CUST_7M9JYA,9558.93,"High Value","South America",Home
+CUST_HWKVNS,9556.6,"High Value",Asia,Home
+CUST_4XMHVI,9555.55,"High Value","North America",Electronics
+CUST_GL89KR,9551.88,"High Value","South America",Sports
+CUST_FD4U9V,9551.31,"High Value","North America",Electronics
+CUST_S7LQCZ,9550.84,"High Value",Asia,Home
+CUST_9HRFEC,9550.5,"High Value",Asia,Clothing
+CUST_7T0E96,9546.64,"High Value",Asia,Home
+CUST_DOS1OM,9546.18,"High Value",Europe,Clothing
+CUST_GZM2JU,9545.18,"High Value","North America",Sports
+CUST_QX5R4Z,9543.92,"High Value",Europe,Home
+CUST_224AFB,9543.42,"High Value","North America",Sports
+CUST_X7319Q,9542.9,"High Value","South America",Clothing
+CUST_XD83AQ,9542.78,"High Value","North America",Sports
+CUST_R789BE,9542.33,"High Value",Europe,Electronics
+CUST_MO30UI,9540.37,"High Value","North America",Sports
+CUST_FZXO44,9539.87,"High Value","North America",Home
+CUST_WCCS3G,9538.68,"High Value",Europe,Home
+CUST_VPL6D6,9537.17,"High Value","North America",Electronics
+CUST_62YSAJ,9535.35,"High Value",Europe,Home
+CUST_85N1LQ,9534.92,"High Value","North America",Clothing
+CUST_K9YBGP,9534.27,"High Value","North America",Home
+CUST_TX35E1,9533.97,"High Value",Asia,Home
+CUST_9SIQNK,9532.98,"High Value",Asia,Sports
+CUST_EXIWCA,9532.66,"High Value","North America",Electronics
+CUST_RI9W17,9530.41,"High Value",Europe,Home
+CUST_PHQ0N1,9529.84,"High Value","North America",Sports
+CUST_9P9D1S,9529.39,"High Value",Asia,Sports
+CUST_QFLDVQ,9528.08,"High Value","South America",Sports
+CUST_3FPDUR,9527.68,"High Value","South America",Sports
+CUST_IJSU2E,9527.47,"High Value","North America",Clothing
+CUST_AY79XG,9525.9,"High Value","North America",Clothing
+CUST_4TE1XJ,9525.26,"High Value",Europe,Electronics
+CUST_JQ5RPS,9524.09,"High Value","South America",Clothing
+CUST_4E8N57,9523.32,"High Value","South America",Sports
+CUST_5DCKXX,9522.33,"High Value","South America",Home
+CUST_RJHKE6,9522.32,"High Value",Europe,Clothing
+CUST_Z1DPAO,9522.19,"High Value",Asia,Home
+CUST_WCHAIT,9521.91,"High Value","North America",Clothing
+CUST_1K3FS5,9521.46,"High Value","North America",Home
+CUST_3YME2F,9520.74,"High Value",Asia,Home
+CUST_WXTLKF,9520.73,"High Value",Asia,Sports
+CUST_O7M13J,9519.95,"High Value","South America",Home
+CUST_CZR1HB,9517.54,"High Value",Europe,Home
+CUST_VXKXVB,9516.82,"High Value",Asia,Clothing
+CUST_K6F2WP,9515.96,"High Value",Europe,Home
+CUST_KGLQWH,9514.78,"High Value",Asia,Sports
+CUST_SC6I89,9513.71,"High Value","North America",Clothing
+CUST_JPG7FZ,9513.31,"High Value","North America",Home
+CUST_EWXKBP,9511.17,"High Value",Asia,Clothing
+CUST_FKKX9G,9510.23,"High Value",Europe,Home
+CUST_WHAEBT,9510.12,"High Value","South America",Sports
+CUST_QFSOIE,9509.66,"High Value","South America",Sports
+CUST_5PHI6R,9508.4,"High Value",Asia,Electronics
+CUST_7DA664,9507.61,"High Value",Asia,Electronics
+CUST_58V6M2,9506.86,"High Value","North America",Electronics
+CUST_VZ463X,9504.99,"High Value",Asia,Home
+CUST_OMDCVQ,9504.35,"High Value","North America",Home
+CUST_575KEZ,9503.99,"High Value","North America",Clothing
+CUST_SR6VQQ,9501.14,"High Value","South America",Clothing
+CUST_UA1LS9,9499.14,"High Value",Europe,Sports
+CUST_1RARSO,9498.4,"High Value","South America",Home
+CUST_LBV1D9,9497.84,"High Value","North America",Electronics
+CUST_5FUPUN,9497.7,"High Value",Europe,Electronics
+CUST_0ZGV0F,9497.54,"High Value",Europe,Clothing
+CUST_Q5JKT5,9497.5,"High Value","South America",Home
+CUST_CX9ZBX,9496.81,"High Value",Europe,Home
+CUST_KJY622,9496.78,"High Value",Europe,Sports
+CUST_MPP72X,9494.19,"High Value","North America",Sports
+CUST_FZKZD2,9494.02,"High Value","South America",Sports
+CUST_MQNLX5,9493.91,"High Value","South America",Clothing
+CUST_4TQZ0F,9491.49,"High Value","South America",Clothing
+CUST_2D8SU8,9489.7,"High Value","North America",Sports
+CUST_ME4VU8,9488.37,"High Value","North America",Home
+CUST_L7BA41,9488.2,"High Value",Europe,Clothing
+CUST_6P5SZL,9488.15,"High Value",Europe,Electronics
+CUST_8QGE70,9486.9,"High Value","South America",Electronics
+CUST_F5875J,9486.83,"High Value","South America",Home
+CUST_FE6ZPL,9485.78,"High Value","North America",Clothing
+CUST_MNBXFG,9485.19,"High Value",Asia,Sports
+CUST_7VNPBA,9483.85,"High Value","South America",Clothing
+CUST_ZSF7S3,9483.11,"High Value","South America",Electronics
+CUST_0WCPLE,9482.37,"High Value","North America",Electronics
+CUST_KNPZHK,9482.28,"High Value",Asia,Home
+CUST_I6D66R,9482.23,"High Value","North America",Sports
+CUST_MAMCI0,9482,"High Value","South America",Sports
+CUST_XWZRLC,9481.33,"High Value","South America",Clothing
+CUST_MPJ217,9481.2,"High Value","North America",Home
+CUST_3FGRSQ,9480.58,"High Value",Asia,Electronics
+CUST_TFW7LL,9479.73,"High Value",Europe,Home
+CUST_8O1DA2,9479.34,"High Value","North America",Sports
+CUST_Y3UQY3,9478.18,"High Value",Asia,Home
+CUST_KSI5JW,9477.06,"High Value",Europe,Sports
+CUST_PGGX93,9477.06,"High Value",Asia,Home
+CUST_H196XB,9476.79,"High Value",Asia,Home
+CUST_XQTM65,9475.25,"High Value","South America",Electronics
+CUST_4M675N,9472.68,"High Value",Europe,Sports
+CUST_HP9FIB,9471.58,"High Value","South America",Electronics
+CUST_72O6X3,9469.81,"High Value","North America",Clothing
+CUST_0CPBHE,9468.82,"High Value","North America",Clothing
+CUST_UTJKR8,9468.55,"High Value",Europe,Clothing
+CUST_FC70Y2,9467.24,"High Value","North America",Electronics
+CUST_1P4EXF,9467.1,"High Value",Asia,Clothing
+CUST_F435HP,9465.58,"High Value","South America",Sports
+CUST_WSERWH,9463.49,"High Value","North America",Electronics
+CUST_1CMR6K,9462.69,"High Value",Asia,Clothing
+CUST_LI4OTM,9462.3,"High Value",Asia,Home
+CUST_Q6TLT5,9461.41,"High Value","North America",Electronics
+CUST_IVTC3Y,9459.96,"High Value","North America",Electronics
+CUST_F3JP57,9459.88,"High Value","South America",Sports
+CUST_5LHNQG,9459.56,"High Value","South America",Electronics
+CUST_L3GJZL,9459.01,"High Value",Asia,Home
+CUST_PIATVZ,9458.63,"High Value",Asia,Sports
+CUST_Q1T071,9458.18,"High Value",Asia,Sports
+CUST_FX22XJ,9457.74,"High Value","South America",Electronics
+CUST_J18LJF,9456.31,"High Value","South America",Electronics
+CUST_V3L03X,9454.83,"High Value","North America",Home
+CUST_PC83U2,9454.07,"High Value",Europe,Sports
+CUST_0SJVFP,9452.48,"High Value","South America",Home
+CUST_3HQIVX,9452.4,"High Value","North America",Sports
+CUST_X870UQ,9450.92,"High Value","North America",Clothing
+CUST_ZNME6W,9450.75,"High Value",Europe,Home
+CUST_9I3KSV,9450.07,"High Value",Europe,Electronics
+CUST_RQBYLQ,9449.49,"High Value","South America",Home
+CUST_HJULQA,9449.26,"High Value",Asia,Electronics
+CUST_0ISZJA,9443.82,"High Value",Asia,Electronics
+CUST_ZD1QLT,9443.66,"High Value","South America",Home
+CUST_TC3OEL,9443.62,"High Value",Europe,Clothing
+CUST_QZXO32,9442.67,"High Value","North America",Home
+CUST_ICW23K,9442.55,"High Value",Europe,Clothing
+CUST_2HMW7T,9442.07,"High Value",Europe,Home
+CUST_IIMOUV,9440.69,"High Value","North America",Clothing
+CUST_YT26PJ,9440.64,"High Value","South America",Home
+CUST_Z6F1YG,9438.85,"High Value",Europe,Electronics
+CUST_5ECK8O,9438.78,"High Value",Europe,Clothing
+CUST_5MTN1N,9438.7,"High Value","North America",Electronics
+CUST_3FPNUY,9437.74,"High Value",Asia,Clothing
+CUST_G3BA8I,9437.55,"High Value","South America",Clothing
+CUST_0L7CJW,9436.36,"High Value",Asia,Clothing
+CUST_74MHWN,9435.18,"High Value","South America",Clothing
+CUST_NUPGMC,9434.41,"High Value",Asia,Sports
+CUST_3E68HN,9431.82,"High Value",Asia,Electronics
+CUST_7X95SQ,9431.55,"High Value","South America",Home
+CUST_MP2LZ8,9429.52,"High Value","South America",Home
+CUST_ZJBV0N,9425.8,"High Value",Europe,Electronics
+CUST_NZFE24,9425.49,"High Value","North America",Sports
+CUST_HBSSI2,9425.21,"High Value","South America",Electronics
+CUST_EFQB3L,9421.5,"High Value",Europe,Clothing
+CUST_LAC7UZ,9420.35,"High Value","North America",Clothing
+CUST_9WNA57,9419.8,"High Value",Asia,Electronics
+CUST_RLULTX,9417.7,"High Value","North America",Sports
+CUST_K764FK,9417,"High Value",Asia,Home
+CUST_WFI86N,9416.86,"High Value","South America",Sports
+CUST_KWLYA4,9416.49,"High Value",Europe,Sports
+CUST_6KVFRK,9415.33,"High Value","North America",Electronics
+CUST_STWBA4,9412.71,"High Value",Asia,Electronics
+CUST_0TUZCW,9412.41,"High Value","South America",Home
+CUST_6A66IS,9410.32,"High Value","South America",Clothing
+CUST_T0F4IR,9407.59,"High Value","North America",Home
+CUST_ZVAIFE,9407.24,"High Value","South America",Clothing
+CUST_1C2VAJ,9407.17,"High Value","North America",Sports
+CUST_CC0RHF,9404.63,"High Value",Asia,Sports
+CUST_ZJFP3F,9403.63,"High Value",Asia,Clothing
+CUST_SOM8P7,9403.01,"High Value",Europe,Home
+CUST_VS15OP,9402.59,"High Value","North America",Sports
+CUST_VHM5FN,9400.9,"High Value",Europe,Home
+CUST_A0TPB8,9398.7,"High Value",Asia,Electronics
+CUST_ZID1WJ,9398.66,"High Value",Europe,Sports
+CUST_D6HA7K,9398.48,"High Value",Asia,Sports
+CUST_DPP7HR,9398.28,"High Value","South America",Sports
+CUST_2U8B1Q,9398.25,"High Value","South America",Sports
+CUST_EAZ7AU,9398.07,"High Value",Europe,Sports
+CUST_GBZPAS,9397.99,"High Value","North America",Sports
+CUST_0CZH3I,9397.28,"High Value",Europe,Home
+CUST_FX276G,9395.6,"High Value",Asia,Electronics
+CUST_66XM51,9394.55,"High Value",Europe,Electronics
+CUST_I0B3GM,9394.38,"High Value","South America",Electronics
+CUST_KLTQ0M,9392.31,"High Value","North America",Home
+CUST_WZI1TV,9392.21,"High Value","North America",Home
+CUST_FU8GA6,9391.83,"High Value","South America",Electronics
+CUST_N31TKU,9390.93,"High Value","North America",Clothing
+CUST_THS3X9,9390.68,"High Value",Asia,Home
+CUST_3WHL7U,9390.68,"High Value","South America",Sports
+CUST_6Y0GI3,9389.63,"High Value","North America",Sports
+CUST_WHNAMI,9389.34,"High Value","South America",Electronics
+CUST_MA67GS,9389.32,"High Value",Europe,Electronics
+CUST_2A8PC3,9388.92,"High Value","South America",Clothing
+CUST_4IA9PZ,9388.8,"High Value","South America",Sports
+CUST_U2P90M,9388.7,"High Value","North America",Clothing
+CUST_KGAHJE,9388.16,"High Value",Asia,Electronics
+CUST_GBWOHJ,9387.23,"High Value","South America",Sports
+CUST_UB5B7G,9385.64,"High Value","North America",Electronics
+CUST_P4S3JA,9382.26,"High Value","North America",Electronics
+CUST_1JSPPY,9380.76,"High Value","South America",Sports
+CUST_U8SYRO,9380.7,"High Value",Europe,Home
+CUST_NZ7TYC,9379.66,"High Value","South America",Clothing
+CUST_W60OR1,9379.27,"High Value","North America",Electronics
+CUST_U1KPQO,9378.38,"High Value","South America",Electronics
+CUST_U8HETP,9377.4,"High Value","South America",Clothing
+CUST_VB1LR5,9375.38,"High Value",Asia,Clothing
+CUST_FUXI8Q,9371.31,"High Value","North America",Home
+CUST_SWT9D4,9370.33,"High Value","South America",Electronics
+CUST_0BN42Y,9370.32,"High Value",Asia,Sports
+CUST_CMNHY5,9370.12,"High Value",Europe,Home
+CUST_YA43TG,9365.96,"High Value",Asia,Clothing
+CUST_S667U9,9365.42,"High Value","North America",Electronics
+CUST_FK47DE,9365.19,"High Value",Asia,Sports
+CUST_8MVNG5,9365.01,"High Value","North America",Sports
+CUST_JPSKEY,9363.42,"High Value",Asia,Home
+CUST_Y2IWUI,9363.14,"High Value","South America",Electronics
+CUST_8RM5BM,9362.41,"High Value",Europe,Electronics
+CUST_BPJYCX,9362.39,"High Value","North America",Electronics
+CUST_2EMLYK,9362.03,"High Value","North America",Sports
+CUST_2FZWSS,9361.99,"High Value",Europe,Electronics
+CUST_5F0064,9361.19,"High Value",Europe,Clothing
+CUST_ONMSFX,9360.74,"High Value","South America",Clothing
+CUST_NAUP08,9360.32,"High Value",Asia,Sports
+CUST_952NKM,9360.02,"High Value","North America",Home
+CUST_EG2WNE,9357.45,"High Value","North America",Clothing
+CUST_MMGBPQ,9357.44,"High Value",Europe,Home
+CUST_RBTHYA,9354.01,"High Value","South America",Home
+CUST_616MQ4,9353.31,"High Value","North America",Home
+CUST_A96R9P,9352.57,"High Value",Asia,Clothing
+CUST_Z1UDJ6,9351.32,"High Value","South America",Home
+CUST_XGTAMS,9350.91,"High Value","North America",Electronics
+CUST_67S266,9350.38,"High Value","South America",Sports
+CUST_EJ9O0L,9348.51,"High Value","North America",Sports
+CUST_KPZJTB,9348.44,"High Value","North America",Sports
+CUST_YDTMCD,9348.07,"High Value",Asia,Sports
+CUST_KW4EVE,9345.92,"High Value",Europe,Home
+CUST_U8F17V,9343.84,"High Value",Europe,Clothing
+CUST_ORRC8Q,9343.7,"High Value","North America",Electronics
+CUST_VJXTV2,9343.31,"High Value",Asia,Electronics
+CUST_023VNN,9343.21,"High Value",Europe,Home
+CUST_JFNNHS,9342.58,"High Value","South America",Electronics
+CUST_FZ5MK5,9340.73,"High Value","South America",Sports
+CUST_JSFDVG,9340.42,"High Value",Asia,Sports
+CUST_EWV7EI,9339.82,"High Value",Asia,Electronics
+CUST_UAMXAO,9339.13,"High Value","South America",Clothing
+CUST_C5QDB7,9338.25,"High Value","South America",Sports
+CUST_TLTE8S,9338.17,"High Value",Europe,Clothing
+CUST_WVVESF,9336.87,"High Value","North America",Electronics
+CUST_Q0QUZV,9336.55,"High Value",Asia,Electronics
+CUST_1CNZO2,9334.52,"High Value",Europe,Sports
+CUST_QRDDAH,9333.82,"High Value","North America",Home
+CUST_I8AFNQ,9330.65,"High Value",Europe,Clothing
+CUST_X02AHX,9330.17,"High Value",Europe,Electronics
+CUST_O0SLE1,9328.75,"High Value",Europe,Sports
+CUST_BCYLUW,9328.41,"High Value",Europe,Sports
+CUST_3ATUTK,9327.02,"High Value",Asia,Clothing
+CUST_SM2M7Y,9325.87,"High Value",Asia,Sports
+CUST_ML1DD2,9324.33,"High Value","South America",Electronics
+CUST_RJ4GDX,9323.28,"High Value","South America",Home
+CUST_F2M7I0,9320.65,"High Value","North America",Clothing
+CUST_4IURPD,9320.5,"High Value",Europe,Electronics
+CUST_3LL7B9,9320.38,"High Value","North America",Sports
+CUST_EFYNBN,9319.84,"High Value","North America",Electronics
+CUST_CHAK1W,9318.21,"High Value",Europe,Electronics
+CUST_DDOPB8,9317.56,"High Value","South America",Clothing
+CUST_ZR6IZN,9316.93,"High Value",Asia,Home
+CUST_PJDKQM,9316.77,"High Value",Europe,Electronics
+CUST_LHA3XG,9316.26,"High Value","South America",Home
+CUST_P1MTCL,9315.14,"High Value",Asia,Clothing
+CUST_6WVS77,9314.82,"High Value","South America",Sports
+CUST_6ZPQJJ,9309.84,"High Value",Asia,Clothing
+CUST_MOS8J7,9309.57,"High Value","South America",Home
+CUST_HQWPVH,9309.17,"High Value",Europe,Sports
+CUST_BBJGAS,9308.56,"High Value","North America",Home
+CUST_P1H67I,9307.39,"High Value","South America",Sports
+CUST_WV2MUE,9306.81,"High Value",Europe,Home
+CUST_V8MURC,9306.33,"High Value",Europe,Sports
+CUST_89QPKM,9305.25,"High Value","South America",Clothing
+CUST_1WWICM,9304.62,"High Value",Europe,Sports
+CUST_R3K54N,9300.81,"High Value",Europe,Home
+CUST_ZLNY0Y,9300.77,"High Value","South America",Clothing
+CUST_B55YXR,9300.2,"High Value",Asia,Electronics
+CUST_3RXMNL,9299.67,"High Value",Asia,Clothing
+CUST_L2FUH6,9299.3,"High Value","South America",Clothing
+CUST_UGRM0Q,9298.36,"High Value","North America",Home
+CUST_RZGSCN,9297.59,"High Value",Asia,Home
+CUST_IZ126H,9297.5,"High Value",Asia,Sports
+CUST_EKPXA1,9297.32,"High Value","North America",Sports
+CUST_EN7GZL,9295.2,"High Value",Europe,Clothing
+CUST_6BRCIH,9295.03,"High Value","South America",Clothing
+CUST_IEH4UV,9294.61,"High Value","North America",Home
+CUST_YCQ2GN,9289.96,"High Value",Asia,Sports
+CUST_2E7L59,9289.69,"High Value","South America",Electronics
+CUST_29GLJR,9289.09,"High Value","South America",Home
+CUST_5LSR7E,9287.67,"High Value","North America",Electronics
+CUST_0470SN,9287.18,"High Value","South America",Electronics
+CUST_8CXB36,9287.12,"High Value",Asia,Sports
+CUST_6JY684,9285.9,"High Value",Europe,Clothing
+CUST_CMDOTK,9283.42,"High Value","South America",Sports
+CUST_LBUY2W,9282.43,"High Value","South America",Sports
+CUST_CJCBNM,9282.16,"High Value","North America",Clothing
+CUST_4TF5P2,9281.62,"High Value",Europe,Home
+CUST_M96QU7,9281.09,"High Value",Asia,Home
+CUST_FGP77J,9280.19,"High Value",Asia,Sports
+CUST_XPQL4W,9279.84,"High Value",Europe,Home
+CUST_7AMPXU,9279.55,"High Value","South America",Clothing
+CUST_1XJ7J5,9277.33,"High Value",Asia,Sports
+CUST_NCE8QH,9276.17,"High Value",Europe,Clothing
+CUST_YTHB17,9276,"High Value","South America",Electronics
+CUST_06YBQX,9270.64,"High Value",Asia,Home
+CUST_5Y827N,9268.51,"High Value","North America",Clothing
+CUST_01PSBO,9268.13,"High Value","South America",Clothing
+CUST_XJSTL4,9267.97,"High Value","North America",Electronics
+CUST_HS5T3Z,9267.5,"High Value","North America",Clothing
+CUST_KTJO26,9266.91,"High Value",Europe,Clothing
+CUST_JFILXP,9266.6,"High Value","South America",Sports
+CUST_KVEDJM,9265.8,"High Value",Asia,Electronics
+CUST_C9RGIZ,9265,"High Value",Europe,Home
+CUST_L2DZMM,9264.94,"High Value",Asia,Clothing
+CUST_BZBAQF,9264.82,"High Value","North America",Electronics
+CUST_VII8C4,9263.41,"High Value",Europe,Home
+CUST_AT0ZN8,9263.37,"High Value",Asia,Clothing
+CUST_I7AFPQ,9262.29,"High Value",Europe,Home
+CUST_690U9P,9262.14,"High Value","North America",Home
+CUST_K8JH7M,9260.96,"High Value","North America",Clothing
+CUST_D3LAQ0,9260.58,"High Value","North America",Home
+CUST_RF415D,9259.05,"High Value",Asia,Clothing
+CUST_8JMT85,9258.75,"High Value","North America",Home
+CUST_MTW0ZY,9257.87,"High Value","North America",Home
+CUST_GAWCWY,9256.83,"High Value",Asia,Sports
+CUST_L0V34A,9255.8,"High Value",Europe,Clothing
+CUST_IFGSYH,9255.56,"High Value",Europe,Sports
+CUST_QCPLBH,9253.73,"High Value",Europe,Electronics
+CUST_N3GW80,9250.4,"High Value","South America",Home
+CUST_MKD2V4,9249.79,"High Value","South America",Clothing
+CUST_5ES6RY,9246.67,"High Value",Europe,Sports
+CUST_8WWDDS,9246.24,"High Value",Asia,Electronics
+CUST_8BJSGL,9243.64,"High Value",Asia,Home
+CUST_FVM278,9243.26,"High Value","South America",Sports
+CUST_X28O3U,9242.33,"High Value",Europe,Home
+CUST_0IV6RM,9241.84,"High Value",Asia,Sports
+CUST_B4SHKK,9241.58,"High Value",Europe,Home
+CUST_2MBGUZ,9240.99,"High Value",Asia,Home
+CUST_19E0I2,9240.41,"High Value",Asia,Clothing
+CUST_52EO2K,9238.72,"High Value",Europe,Sports
+CUST_OQTOY0,9235.63,"High Value",Asia,Electronics
+CUST_2M4I7J,9234.51,"High Value",Europe,Sports
+CUST_166WPJ,9232.71,"High Value",Europe,Sports
+CUST_C296V3,9230.8,"High Value",Asia,Sports
+CUST_3DH4FC,9230.43,"High Value",Asia,Clothing
+CUST_W59833,9227.59,"High Value",Europe,Clothing
+CUST_4EEBO0,9227.5,"High Value",Europe,Clothing
+CUST_NC420F,9226.4,"High Value",Europe,Clothing
+CUST_HMY7O4,9226.09,"High Value",Europe,Home
+CUST_COL2K1,9224.09,"High Value",Europe,Sports
+CUST_U30P9Y,9223.01,"High Value",Europe,Home
+CUST_Q6Q3Z1,9222.28,"High Value",Asia,Electronics
+CUST_FWDNYN,9222.03,"High Value",Asia,Clothing
+CUST_H78OK0,9221.89,"High Value",Europe,Sports
+CUST_E7FABX,9221.87,"High Value",Europe,Electronics
+CUST_FH3SVW,9220.65,"High Value","South America",Clothing
+CUST_CUB01S,9220.4,"High Value","South America",Home
+CUST_PNKY4N,9219.25,"High Value","North America",Clothing
+CUST_25141A,9219.15,"High Value",Europe,Home
+CUST_KHSVSS,9218.12,"High Value","South America",Electronics
+CUST_XY8U9Q,9217.39,"High Value","South America",Sports
+CUST_1TEQXU,9217.19,"High Value",Asia,Clothing
+CUST_2PCJ9L,9216.24,"High Value","South America",Home
+CUST_CV01Q9,9215.65,"High Value",Europe,Electronics
+CUST_8W2QX2,9213.8,"High Value",Asia,Home
+CUST_WPXGIU,9213.63,"High Value","North America",Clothing
+CUST_0IE3J4,9213.14,"High Value",Asia,Home
+CUST_R78OLL,9212.06,"High Value",Europe,Clothing
+CUST_T070TP,9211.44,"High Value","North America",Home
+CUST_3ZV9D1,9211.36,"High Value","North America",Sports
+CUST_C21E6Q,9211.32,"High Value",Europe,Home
+CUST_FTT73I,9210.12,"High Value","South America",Sports
+CUST_N4GTYJ,9209.78,"High Value","South America",Clothing
+CUST_OZ7OCM,9207.93,"High Value",Asia,Home
+CUST_Z6MNGY,9207.84,"High Value",Asia,Clothing
+CUST_UX1N9T,9206.69,"High Value",Asia,Electronics
+CUST_42SXOI,9204.96,"High Value",Asia,Clothing
+CUST_2L1D3B,9204.35,"High Value",Asia,Electronics
+CUST_JB97L6,9203.9,"High Value","South America",Electronics
+CUST_JMJ2L4,9203.9,"High Value",Asia,Sports
+CUST_5KCDVZ,9202.9,"High Value",Europe,Electronics
+CUST_QFMBCN,9200.65,"High Value",Europe,Electronics
+CUST_VQ2CRW,9199.73,"High Value","South America",Electronics
+CUST_MZ4MMD,9198.84,"High Value",Europe,Sports
+CUST_05QPQ9,9197.74,"High Value","North America",Clothing
+CUST_T3XOS6,9197.43,"High Value","South America",Sports
+CUST_WJW3WW,9192.55,"High Value","North America",Electronics
+CUST_611PJ6,9191.66,"High Value",Europe,Clothing
+CUST_G5M823,9190.38,"High Value","South America",Sports
+CUST_BPA3SA,9190.25,"High Value","South America",Electronics
+CUST_D7PHAG,9189.78,"High Value",Asia,Clothing
+CUST_7J4KNL,9189.74,"High Value","South America",Home
+CUST_TTT502,9189.04,"High Value",Asia,Clothing
+CUST_08XLDS,9187.71,"High Value","North America",Electronics
+CUST_DU0E1O,9187.57,"High Value",Europe,Clothing
+CUST_BPCLNC,9187.25,"High Value","North America",Home
+CUST_33VZRQ,9186.08,"High Value",Asia,Electronics
+CUST_21LWLH,9184.16,"High Value","South America",Clothing
+CUST_RNG8B4,9183.14,"High Value","North America",Clothing
+CUST_VNAFY0,9182.73,"High Value",Europe,Electronics
+CUST_QXK6JP,9182.18,"High Value",Europe,Electronics
+CUST_LD7ZA3,9182.12,"High Value","North America",Clothing
+CUST_BE4P84,9181.97,"High Value","South America",Home
+CUST_0YQJJ7,9181.01,"High Value","South America",Clothing
+CUST_WOUGHJ,9180.95,"High Value",Europe,Home
+CUST_3E8CDE,9180.68,"High Value",Europe,Electronics
+CUST_3PHYPG,9177.62,"High Value",Europe,Sports
+CUST_8BLIKZ,9177.41,"High Value","North America",Clothing
+CUST_K1PHYK,9175.58,"High Value",Asia,Electronics
+CUST_PWN4B0,9175.49,"High Value","North America",Sports
+CUST_WGMVGW,9174.43,"High Value",Asia,Clothing
+CUST_I61VYT,9174.35,"High Value","South America",Clothing
+CUST_KI4WD8,9172.82,"High Value",Asia,Sports
+CUST_27PZ49,9171.88,"High Value",Europe,Electronics
+CUST_CL0MP3,9171.46,"High Value","North America",Clothing
+CUST_FTYDUP,9171.38,"High Value",Asia,Sports
+CUST_1S2MSA,9170.98,"High Value","North America",Clothing
+CUST_OIGYN3,9168.34,"High Value",Asia,Electronics
+CUST_GPRNCH,9168.11,"High Value",Asia,Sports
+CUST_8MDNSR,9167.43,"High Value","North America",Clothing
+CUST_0QYAG6,9165.5,"High Value","South America",Sports
+CUST_JQMO38,9165.15,"High Value",Europe,Sports
+CUST_1T3INE,9164.62,"High Value",Asia,Clothing
+CUST_GZTSWD,9164.2,"High Value","North America",Home
+CUST_IB30XV,9162.76,"High Value","South America",Sports
+CUST_UBV7PA,9161.87,"High Value","North America",Clothing
+CUST_J7WAS9,9161.42,"High Value","North America",Clothing
+CUST_R4GYJ1,9160.86,"High Value",Europe,Sports
+CUST_YX1V3G,9160.5,"High Value","South America",Home
+CUST_ONXTD1,9159.95,"High Value","North America",Sports
+CUST_AVNI66,9159.53,"High Value",Asia,Clothing
+CUST_SL2CC2,9157.88,"High Value",Europe,Clothing
+CUST_PLH4X1,9157.77,"High Value",Asia,Home
+CUST_YO6X6W,9157.61,"High Value","North America",Home
+CUST_QNM6XA,9157.04,"High Value",Asia,Electronics
+CUST_HFLMUK,9156.7,"High Value","South America",Clothing
+CUST_6JN9WE,9154.9,"High Value",Asia,Electronics
+CUST_VKQH9K,9154.88,"High Value",Asia,Electronics
+CUST_OJ8GKD,9153.15,"High Value","South America",Sports
+CUST_QYTH56,9151.55,"High Value","South America",Electronics
+CUST_GL0D4S,9151.19,"High Value",Asia,Home
+CUST_O1TAKW,9149.21,"High Value","South America",Electronics
+CUST_YA2JH3,9149.2,"High Value","North America",Electronics
+CUST_QE3F3T,9148.96,"High Value","South America",Electronics
+CUST_P3YPN3,9148.31,"High Value","South America",Electronics
+CUST_V71ZT8,9147.92,"High Value",Europe,Home
+CUST_NB11SE,9144.71,"High Value",Europe,Electronics
+CUST_CYKZZA,9144.57,"High Value",Europe,Home
+CUST_V1N3RX,9144.31,"High Value",Asia,Home
+CUST_WCHAEU,9144.28,"High Value","South America",Home
+CUST_2S8OBH,9143.39,"High Value","South America",Home
+CUST_AM7SRG,9141.66,"High Value",Asia,Sports
+CUST_C4EMAU,9140.67,"High Value",Europe,Electronics
+CUST_YZMQLN,9137.37,"High Value","North America",Electronics
+CUST_JOKIBK,9136.92,"High Value","North America",Home
+CUST_J0MDFR,9134.87,"High Value","South America",Home
+CUST_GJ7SRO,9134.77,"High Value","North America",Clothing
+CUST_VXGTKT,9134.21,"High Value",Asia,Home
+CUST_5VW1BV,9132.33,"High Value",Europe,Home
+CUST_Y3CPTU,9130.53,"High Value",Europe,Home
+CUST_J5Z6S0,9128.02,"High Value",Europe,Home
+CUST_45L1B8,9127.85,"High Value","South America",Sports
+CUST_QOA14U,9127.73,"High Value",Europe,Electronics
+CUST_36EEN7,9127.33,"High Value",Asia,Electronics
+CUST_S31UHN,9127.3,"High Value","North America",Clothing
+CUST_TF46EL,9126.96,"High Value",Europe,Home
+CUST_IMS0XS,9126.06,"High Value",Asia,Home
+CUST_L1TX5B,9125.29,"High Value","North America",Home
+CUST_UBNTZ8,9125.05,"High Value","South America",Electronics
+CUST_N7EMIM,9124.02,"High Value","South America",Clothing
+CUST_U585Z0,9123.77,"High Value","North America",Home
+CUST_T8HJAB,9123.13,"High Value",Europe,Home
+CUST_1JL6IC,9122.69,"High Value",Asia,Home
+CUST_DJJJGB,9121.15,"High Value",Asia,Sports
+CUST_EF86NY,9120.75,"High Value",Europe,Sports
+CUST_D3JK8K,9120.44,"High Value","North America",Home
+CUST_8OU4D6,9119.92,"High Value","North America",Electronics
+CUST_QB712K,9119.87,"High Value",Asia,Sports
+CUST_UYY2SH,9119.66,"High Value",Europe,Sports
+CUST_18K8BI,9117.93,"High Value",Asia,Electronics
+CUST_ZWKJWL,9116.52,"High Value","North America",Clothing
+CUST_OA5DOA,9114.81,"High Value",Asia,Electronics
+CUST_H6GK58,9111.85,"High Value",Asia,Clothing
+CUST_962UEK,9111.75,"High Value","North America",Electronics
+CUST_BM02DB,9110.58,"High Value","South America",Home
+CUST_HALQC9,9108.74,"High Value",Asia,Home
+CUST_V5TAFH,9106.12,"High Value",Europe,Clothing
+CUST_X7TM5R,9105.38,"High Value",Asia,Sports
+CUST_VZ8P8W,9103.64,"High Value","South America",Sports
+CUST_MO4O9Y,9101.33,"High Value",Asia,Clothing
+CUST_LDOBVW,9101.05,"High Value",Asia,Electronics
+CUST_8HY2KI,9100.31,"High Value","South America",Clothing
+CUST_6ZA9R0,9098.12,"High Value","South America",Clothing
+CUST_Q0ORVO,9096.94,"High Value","North America",Electronics
+CUST_J06QWM,9096.55,"High Value",Asia,Electronics
+CUST_WZ238N,9094.4,"High Value",Europe,Electronics
+CUST_T1ULWG,9093.39,"High Value","North America",Electronics
+CUST_D0WXDN,9093.21,"High Value",Europe,Clothing
+CUST_ZOHGIM,9092.45,"High Value",Asia,Sports
+CUST_JSHGOL,9091.93,"High Value","North America",Sports
+CUST_9W5KVC,9088.01,"High Value",Asia,Electronics
+CUST_ZSXL4X,9087.3,"High Value","South America",Clothing
+CUST_2Y591G,9086.47,"High Value",Europe,Home
+CUST_4KJ0FB,9086.33,"High Value","North America",Electronics
+CUST_GUCCGR,9085.7,"High Value","South America",Home
+CUST_XZS36F,9085.7,"High Value",Europe,Electronics
+CUST_CMW5B7,9085.06,"High Value",Europe,Clothing
+CUST_50NNKN,9085,"High Value",Europe,Electronics
+CUST_6C7IQ0,9084.91,"High Value",Europe,Sports
+CUST_XPND0L,9084.33,"High Value","South America",Clothing
+CUST_MHNRDU,9081.92,"High Value","South America",Sports
+CUST_RD8AL6,9080.71,"High Value",Asia,Sports
+CUST_LVPSG5,9080.22,"High Value",Europe,Clothing
+CUST_WC4RNM,9079.82,"High Value","South America",Electronics
+CUST_N73I4N,9079.53,"High Value","South America",Sports
+CUST_6R4HID,9076.85,"High Value",Europe,Sports
+CUST_HU9ZOF,9076.67,"High Value",Europe,Home
+CUST_XMN1K4,9075.39,"High Value",Asia,Home
+CUST_DCB05J,9071.72,"High Value",Asia,Electronics
+CUST_SGXT2C,9071.47,"High Value",Europe,Home
+CUST_9TCGTB,9071.22,"High Value",Asia,Clothing
+CUST_6615WV,9069.59,"High Value",Europe,Clothing
+CUST_VJHGRM,9068.43,"High Value","North America",Electronics
+CUST_ZHWAJA,9068.39,"High Value","North America",Clothing
+CUST_FQY1DB,9067.9,"High Value",Asia,Clothing
+CUST_1L2D6C,9067.62,"High Value","South America",Sports
+CUST_AKXT6O,9067.15,"High Value",Asia,Home
+CUST_GF1UXT,9065.39,"High Value","North America",Home
+CUST_MXZ0K2,9064.3,"High Value",Europe,Clothing
+CUST_CA7CD4,9063.82,"High Value",Asia,Clothing
+CUST_H4ISZX,9063.74,"High Value",Asia,Home
+CUST_LKRPU2,9062.53,"High Value","North America",Clothing
+CUST_HQKVEM,9061.02,"High Value",Asia,Electronics
+CUST_1Z5PRF,9059.84,"High Value","South America",Clothing
+CUST_DVCMGC,9058.57,"High Value",Europe,Home
+CUST_6YZE30,9057.67,"High Value",Europe,Electronics
+CUST_43W6DU,9055.74,"High Value",Europe,Electronics
+CUST_BWVKE0,9053.5,"High Value",Europe,Clothing
+CUST_DKWAF0,9052.89,"High Value",Europe,Clothing
+CUST_SA2OII,9052.57,"High Value",Europe,Sports
+CUST_HC03QO,9052.24,"High Value","South America",Electronics
+CUST_P95H7U,9052.18,"High Value",Europe,Sports
+CUST_F1KW22,9052.05,"High Value",Europe,Home
+CUST_EGXC9Q,9049.94,"High Value",Asia,Home
+CUST_J6DSZM,9048.55,"High Value","North America",Home
+CUST_PF1BJ5,9046.98,"High Value",Asia,Clothing
+CUST_7J3XXY,9046.43,"High Value","North America",Clothing
+CUST_MEPPHV,9046.13,"High Value",Asia,Home
+CUST_2KJ3HF,9045.61,"High Value",Asia,Clothing
+CUST_6EZ1IZ,9045.51,"High Value",Asia,Clothing
+CUST_HX1O1E,9043.13,"High Value",Europe,Sports
+CUST_FZQ6IT,9041.15,"High Value","North America",Clothing
+CUST_QMJ3YW,9040.88,"High Value",Asia,Sports
+CUST_FRWXK4,9039.78,"High Value",Asia,Electronics
+CUST_UVCFTV,9038.82,"High Value",Asia,Sports
+CUST_T7ETEY,9036.7,"High Value","North America",Clothing
+CUST_4PHQMY,9034.59,"High Value","North America",Home
+CUST_C53331,9032.11,"High Value",Europe,Sports
+CUST_8TH7NM,9031.64,"High Value","South America",Home
+CUST_JCKGPQ,9031.22,"High Value",Europe,Home
+CUST_XDG9ET,9029.47,"High Value","North America",Clothing
+CUST_NLPL2L,9029.11,"High Value","South America",Electronics
+CUST_3CMLGC,9028.77,"High Value",Asia,Home
+CUST_YBLVOW,9028.59,"High Value",Asia,Clothing
+CUST_9O5GBY,9028.15,"High Value","North America",Sports
+CUST_4QOQW2,9027.96,"High Value","South America",Electronics
+CUST_HVEERY,9026.55,"High Value","South America",Home
+CUST_1EDTHC,9024.36,"High Value",Europe,Sports
+CUST_VTLNG1,9024.16,"High Value","North America",Home
+CUST_Q4ZGNN,9023.22,"High Value","South America",Clothing
+CUST_5S2K0B,9021.58,"High Value","North America",Clothing
+CUST_YKMB5M,9019.17,"High Value",Europe,Electronics
+CUST_0ZG9HS,9018.63,"High Value","North America",Sports
+CUST_IL0SMR,9017.95,"High Value","North America",Sports
+CUST_CTJVKC,9017.51,"High Value","South America",Clothing
+CUST_8UG2G7,9017.1,"High Value","North America",Sports
+CUST_ZRDVG5,9015.75,"High Value","North America",Electronics
+CUST_HKKWIQ,9014.96,"High Value","South America",Home
+CUST_JJ4CZQ,9014.6,"High Value",Asia,Home
+CUST_3DQVB6,9013.9,"High Value",Asia,Clothing
+CUST_VNDYZE,9013.57,"High Value","South America",Clothing
